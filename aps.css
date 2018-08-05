@@ -1,0 +1,134 @@
+body {
+	margin:0;
+	padding:0;
+ } 
+
+#search-box {
+	position: relative;
+	margin: 0;
+	width: 97%;
+	padding-top:14px;
+	padding-left: 22px;
+	}
+	#search-form 
+	{
+	height: 32px;
+	border: 1px solid #999;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	background-color: #fff;
+	overflow: hidden;
+	}
+	#search-text 
+	{
+	font-size: 14px;
+	color: #ddd;
+	border-width: 0;
+	background: transparent;
+	}
+	#search-box input[type="text"]
+	{
+	width: 80%;
+	padding: 10px 0 9px 1em;
+	color: #333;
+	outline: none;
+	}
+	#ac
+	{
+	background-color:#0086AA;	
+	height: 100%;
+	border-right: 1px solid black; 
+	}
+	#pq
+	{ 
+		font-size: 16px;
+		line-height: 1.2;
+		padding-top: 48px;
+		padding-left: 8px;
+	}
+	#sq
+	{
+		padding-top: 12px;
+		padding-left:26px;
+		line-height: 1.2;
+		font-family:Helvetica;
+	}
+	#ab
+	{
+		padding-top: 14px;
+		padding-bottom: 8px;
+		font-size: 16px;
+		padding-left: 8px;
+	}
+	.nc
+	{
+		color: silver;
+	
+	}	
+	.c
+	{
+		color: orange;
+	}
+	#ls
+	{
+	padding-left:24px;
+	line-height: 1.2;
+	}
+	#acd
+	{
+		font-size: 16px;
+		line-height: 0.9;
+		padding-top: 68px;
+		padding-left: 12px;	
+	}
+	#vl {
+		height: 120%;
+		border-right: 1.5px solid #D3D3D3;
+		width: 18%;
+	}
+	.ts
+	{
+		color: #001;
+		font-family: Arial;
+	}	
+	#bt
+	{
+		margin-left: 440px;
+		margin-top: -100px;
+		width: 190px;
+		height: 35px;
+		background: #fff;
+	}
+	#xy
+	{
+		font-family:Helvetica;
+		font-size: 15px;
+		color: #696969;
+		text-align: center;
+	}
+	.bodyWrapper {
+		display: flex;
+		padding:0px 0px 0px 10px;
+		height: 100vh;
+	}
+	.cardContainer {
+		width: 84%;
+		display: inline-blockl;
+	}
+	.cardWrapper{
+		display: flex;
+		padding: 55px 0px 0px 45px;
+		width: 100%;
+
+	}
+.pc{
+	color:silver;
+	font-family:Helvetica;
+}
+.ab:hover
+{
+	transform: scale(2.0);
+}
+
+
